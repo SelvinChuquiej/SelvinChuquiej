@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **schuquiej.a@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
