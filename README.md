@@ -1,8 +1,4 @@
-<style>
-  a {
-    text-decoration:none;
-  }
-</style>
+
 <img src="./Photo.jpg"/>
 <h1 align="center">Hi 👋, I'm Selvin Chuquiej</h1>
 <h3 align="center">I am a passionate backend developer with frontend skills from Guatemala. Passionate about creating innovative solutions and collaborating on projects.</h3>
