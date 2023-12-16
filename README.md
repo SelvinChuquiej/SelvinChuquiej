@@ -1,4 +1,4 @@
-<style>{
+<style>
   a:hover{
     text-decoration:none;
   }
