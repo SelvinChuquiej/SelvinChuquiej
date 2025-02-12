@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://schuquieja.wixsite.com/portafolio](https://schuquieja.wixsite.com/portafolio)
-
 - 📫 How to reach me **schuquiej.a@gmail.com**
 
 <p align="left">
